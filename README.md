@@ -2,4 +2,4 @@
 
 This is a project for admin dashboard using CSS Grid and Flexbox layout.
 
-Link to preview:
+Link to preview: https://smkakitani.github.io/odin-admin-dashboard-project/
